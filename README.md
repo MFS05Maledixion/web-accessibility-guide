@@ -21,20 +21,20 @@
 
 ## TOOLS
 
-* IMAGES
+### IMAGES
 - alt text for screen readers (for any images that provide helpful information i.e photos, icons) the exception being decorative pieces i.e background images, dividers
 - short and simple is best
 - dont start with this is an image of... 'screen readers will read that it's an image'
 - Adding on WordPress: <!-- Open up your Media Library and select the image you want to edit. The Settings screen for that image will open up. In the Alternative Text field, add your alt text, then click Save --> 
 
-* COLORS
+### COLORS
 - provide adequate color contrast, this will help with users with poor vision, color-blind users, or people using certain devices
 - Images, text, and elements like buttons all need proper color contrast
 - Color contrast refers to how bright or dark colors appear when placed against or very near each other
 - e.g black text on a white background has a much higher color contrast (21:1) than yellow text on a white background (1.08:1). WCAG 2.0 AA requires a minimum of a 4.5:1 ratio for normal text and 3:1 for larger text (bold 18px or standard 24px and larger).
 - constrast checker: https://webaim.org/resources/contrastchecker/
 
-* TEXT
+### TEXT
 - fonts and size
 - An accessible font is easy to read at small and large sizes.
 - e.g  Tahoma, Calibri, Helvetica, Arial, Verdana, Times New Roman, Arvo, Museo Slab, and Rockwell are all accessible choices.
