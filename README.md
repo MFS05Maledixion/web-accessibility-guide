@@ -42,3 +42,13 @@
 - Sans-serif fonts for body text tend to be a safer choice. It’s best to avoid display fonts — like handwriting styles or cursive — unless the text is large, sparse, and mostly decorative.
 - take note of capitalization on fonts, with some fonts capital letters are indistinguishable from small letters.
 - Default fonts should be at least 9pt or 12px. 12pt or 16px is recommended. According to WCAG Guidelines, the text should be able to be read when zoomed to 200%.
+
+### BEST PRACTICES
+- add interactive elements e.g on-hover functionality, on-click, on-focus
+- navigation should be consistent throughout the website
+- optional (recommended) : add breadcrumbs and clear headings so people can see the flow of the website
+
+### SEO OPTIMIZATIONS
+- generate a sitemap of the website
+- include commonly used and trending words, this makes it easier for google's algorithm to find
+
