@@ -1,4 +1,4 @@
-# WEB ACCESSIBILITY GUIDE
+# WHAT IS WEB ACCESSIBILITY
 
 ## Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can:
 - perceive, understand, navigate, and interact with the Web
@@ -47,8 +47,35 @@
 - add interactive elements e.g on-hover functionality, on-click, on-focus
 - navigation should be consistent throughout the website
 - optional (recommended) : add breadcrumbs and clear headings so people can see the flow of the website
+- Allowing users to stop or control any auto-motion
 
 ### SEO OPTIMIZATIONS
 - generate a sitemap of the website
 - include commonly used and trending words, this makes it easier for google's algorithm to find
 
+## WORDPRESS PLUGINS
+
+### TYPES
+- those that help build an accessible site
+- and those that help make an existing website accessible
+- test your plugins, e.g form plugins, page builders
+
+### ACCESSIBLITY STATEMENTS
+- An accessibility statement is a page on your website where you communicate your internal policies, accessibility goals, and past successes regarding working with people who have disabilities.
+- You should generate and publish an accessibility statement on your WordPress website for the following reasons:
+- - To show your users that you care about accessibility and them
+- - To provide information about the accessibility of your content
+- - To demonstrate commitment to accessibility and social responsibility
+
+## TESTING
+- free accessibility test tool: https://wave.webaim.org/
+- use contrast checkers before design when deciding your color scheme 
+
+### Manual Tests
+- Ditch the mouse: Make sure that you can reasonably and easily navigate all of your website’s functions using only your keyboard keys. 
+- Use a screen reader: Put yourself in the shoes of someone who has low or poor visibility. Use a screen reader app or website and review the content on your site to ensure it still makes sense and sounds smooth when read aloud.
+- Test the site in different environments: Go somewhere with public WiFi to make sure that your site loads properly without a high-quality internet connection.
+- Increase the zoom: Open up your site in a browser and use the browser settings to zoom in 200%. Can you still use, navigate, and engage with the site in this setting? Is there content that disappears or gets cut off?
+- Focus on interactivity: Make sure to spend plenty of time testing interactive elements like videos, forms, and buttons. Links and form fields should always be brought into focus with an outline, underline, special cursor.
+- Double-check your alt tags: If you’re unsure whether or not an image has an attached alternative image, use the Inspect Element tool to confirm.
+- Think differently: If all the images on your site disappeared, would someone still be able to use it? Essentials must still work without the gloss
